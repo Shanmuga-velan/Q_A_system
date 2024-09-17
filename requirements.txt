@@ -4,5 +4,3 @@ pymupdf
 python-docx
 python-pptx
 requests
-comtypes; platform_system == "Windows"
-pywin32; platform_system == "Windows"
